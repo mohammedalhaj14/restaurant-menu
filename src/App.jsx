@@ -165,7 +165,7 @@ export default function App() {
               <p className="small text-secondary">WhatsApp: +961 76 724 176<br/>Email: info@gourmetkitchen.com</p>
             </div>
           </div>
-          <p className="small text-secondary">&copy; 2024 Gourmet Kitchen. Powered by React.</p>
+          <p className="small text-secondary">&copy; 2025 Gourmet Kitchen. Powered by React.</p>
         </div>
       </footer>
 
