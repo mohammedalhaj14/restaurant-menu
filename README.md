@@ -2,7 +2,7 @@
 
 A responsive digital restaurant menu built with **React** and **Vite**. Customers browse the menu, build an order and send it straight to the restaurant on WhatsApp.
 
-**Live demo:** https://my-restaurant-menu-xi.vercel.app/
+**Live demo:** https://restaurant-menu-alpha-rouge.vercel.app/
 
 ## Features
 
